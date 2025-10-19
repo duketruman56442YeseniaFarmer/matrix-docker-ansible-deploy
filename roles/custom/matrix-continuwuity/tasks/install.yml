@@ -62,3 +62,5 @@
     src: "{{ role_path }}/templates/systemd/matrix-continuwuity.service.j2"
     dest: "{{ devture_systemd_docker_base_systemd_path }}/matrix-continuwuity.service"
     mode: 0644
+
+# Update: 2025-10-19
